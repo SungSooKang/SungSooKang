@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=SungSooKang&show_icons=true&hide_border=true)](https://github.com/SungSooKang)
+[![github stats](https://github-readme-stats.vercel.app/api?username=SungSooKang&show_icons=true&hide_border=true)](https://github.com/SungSooKang) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SungSooKang&layout=compact)](https://github.com/SungSooKang)
