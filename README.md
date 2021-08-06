@@ -19,5 +19,3 @@ Here are some ideas to get you started:
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=SungSooKang&show_icons=true&hide_border=true)](https://github.com/SungSooKang)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SungSooKang&layout=compact)](https://github.com/SungSooKang)
-
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
